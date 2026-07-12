@@ -1,8 +1,4 @@
 {
   "apiBaseUrl": "https://api-airmonitoring.sgm.uzspace.uz",
-  "imageServerUrl": "https://sgm.uzspace.uz/image/rest/services/Atmosphere_CH4_plume/ImageServer",
-  "overlayGisAuth": {
-    "username": "AdminAI",
-    "password": "AQ!SW@de3?AI"
-  }
+  "imageServerUrl": "https://sgm.uzspace.uz/image/rest/services/Atmosphere_CH4_plume/ImageServer"
 }

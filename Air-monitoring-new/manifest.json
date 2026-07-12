@@ -1,7 +1,7 @@
 {
   "name": "Air-monitoring-new",
   "type": "widget",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "exbVersion": "1.12.0",
   "author": "Ilkhom Khamdamov",
   "description": "Atmosphere Monitoring Widget with ArcGIS Map and Line Chart",
