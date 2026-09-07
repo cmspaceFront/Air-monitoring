@@ -2,17 +2,21 @@
   "name": "Air-monitoring-new",
   "type": "widget",
   "version": "1.0.1",
-  "exbVersion": "1.12.0",
+  "exbVersion": "1.14.0",
   "author": "Ilkhom Khamdamov",
-  "description": "Atmosphere Monitoring Widget with ArcGIS Map and Line Chart",
+  "description": "Atmosphere Monitoring Widget — org build (ArcGIS Map + Line Chart)",
   "copyright": "",
   "license": "http://www.apache.org/licenses/LICENSE-2.0",
   "properties": {
-    "hasSettingPage": true
+    "hasSettingPage": true,
+    "hasConfigPage": true,
+    "supportInlineEditing": false
   },
   "translatedLocales": [
     "en",
-    "ru"
+    "ru",
+    "uz-Cyrl",
+    "uz-Latn"
   ],
   "defaultSize": {
     "width": 1200,
